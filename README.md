@@ -12,3 +12,4 @@ Foi usando o PHPMailer para fazer essa Requisição via POST.
 
 # Enviando ao MySQL 
 Apos isso foi enviado o dados também para um banco de dados MySQL para armazenar o historico de envios. 
+![registro](https://github.com/luiteemanuel/Voice-Recognition/assets/60760100/3f499714-c718-4866-8c35-b029d624b328)

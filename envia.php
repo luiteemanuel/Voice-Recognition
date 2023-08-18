@@ -15,7 +15,7 @@ if(isset($_POST['send']) && $_POST['action'] === 'enviar_email'){
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'luite8555@gmail.com';
-    $mail->Password = 'qlcmrywvdjlotuov';
+    $mail->Password = 'sua senha';
     $mail->Port = 465;
     $mail->SMTPSecure = 'ssl';
     $mail->isHTML(true);
